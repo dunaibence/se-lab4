@@ -1,4 +1,4 @@
 SUCCESS  # <- GT4500
 SUCCESS  # <- TORPEDO
 SUCCESS  # <- TORPEDO
-#A tüzelési parancs eredménye FAIL
+#A tüzelési parancs eredménye SUCCESS
