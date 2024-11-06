@@ -1,0 +1,4 @@
+#Tesztelt követelmény: A GT4500 torpedóit ki lehet lőni
+#Előfeltételek: Tartalmaz torpedót, de mind hibás!
+GT4500,1,1,1,1
+TORPEDO,SINGLE

@@ -1,0 +1,4 @@
+#Tesztelt követelmény: A GT4500 torpedóit ki lehet lőni
+#Legalább egy torpedó van az elsődleges tárolóban
+GT4500,1,0,1,0
+TORPEDO,SINGLE
